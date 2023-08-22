@@ -2,6 +2,8 @@
 ## Overview
 This repository contains the code for a middleware application developed in ASP.Net. The application serves as a bridge between TazWorks and SmartRecruiters platforms, connecting a software application to a partner's platform using Restful API.
 
+![img.png](img.png)
+
 ## Features
 - Seamless Integration: Facilitates smooth communication between two platforms.
 - RESTful API Support: Utilizes RESTful API principles for interoperability.
